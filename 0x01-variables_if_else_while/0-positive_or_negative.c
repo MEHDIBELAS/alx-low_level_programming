@@ -1,3 +1,5 @@
+#!/bin/bash
+gcc -c $CFILE
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
