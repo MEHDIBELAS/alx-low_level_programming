@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-565f3cd0f964.js"></script>
   
 
-  <title>alx-low_level_programming/102-fibonacci.c at master · DemisoDaba/alx-low_level_programming</title>
+  <title>alx-low_level_programming/103-fibonacci.c at master · DemisoDaba/alx-low_level_programming</title>
 
 
 
@@ -80,7 +80,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="3B8E:10393:6593E7C:6877DCD:641B9E0F" data-turbo-transient="true" /><meta name="html-safe-nonce" content="953690142b420b44bb9453cce9a4565a413b23e0862142986e0111a6772c8b4f" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9EZW1pc29EYWJhL2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgwMi1mdW5jdGlvbnNfbmVzdGVkX2xvb3BzIiwicmVxdWVzdF9pZCI6IjNCOEU6MTAzOTM6NjU5M0U3Qzo2ODc3RENEOjY0MUI5RTBGIiwidmlzaXRvcl9pZCI6IjI3MDQ4NzEyMDYwNzEyNTkxOSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="b3486ea19ed7ad9618a1ca38e34e616272483db1a2b01288018649fb1d1c70cb" data-turbo-transient="true" />
+  <meta name="request-id" content="3B8E:10393:65967ED:687A958:641B9E27" data-turbo-transient="true" /><meta name="html-safe-nonce" content="953690142b420b44bb9453cce9a4565a413b23e0862142986e0111a6772c8b4f" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9EZW1pc29EYWJhL2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgwMi1mdW5jdGlvbnNfbmVzdGVkX2xvb3BzIiwicmVxdWVzdF9pZCI6IjNCOEU6MTAzOTM6NjU5NjdFRDo2ODdBOTU4OjY0MUI5RTI3IiwidmlzaXRvcl9pZCI6IjI3MDQ4NzEyMDYwNzEyNTkxOSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="d3b1b3cf31edc8f50fd4f430eed766a2f3d5a47d235d8f59851b6f33d7317a71" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:614930674" data-turbo-transient>
@@ -119,11 +119,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/dffd8ae73b993f93a5b522c4651da81c50fa02a2cea5ec6c552e9c7c31473697/DemisoDaba/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/102-fibonacci.c at master · DemisoDaba/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to DemisoDaba/alx-low_level_programming development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/dffd8ae73b993f93a5b522c4651da81c50fa02a2cea5ec6c552e9c7c31473697/DemisoDaba/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to DemisoDaba/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/102-fibonacci.c at master · DemisoDaba/alx-low_level_programming" /><meta property="og:url" content="https://github.com/DemisoDaba/alx-low_level_programming" /><meta property="og:description" content="Contribute to DemisoDaba/alx-low_level_programming development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/dffd8ae73b993f93a5b522c4651da81c50fa02a2cea5ec6c552e9c7c31473697/DemisoDaba/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/103-fibonacci.c at master · DemisoDaba/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to DemisoDaba/alx-low_level_programming development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/dffd8ae73b993f93a5b522c4651da81c50fa02a2cea5ec6c552e9c7c31473697/DemisoDaba/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to DemisoDaba/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/103-fibonacci.c at master · DemisoDaba/alx-low_level_programming" /><meta property="og:url" content="https://github.com/DemisoDaba/alx-low_level_programming" /><meta property="og:description" content="Contribute to DemisoDaba/alx-low_level_programming development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/123364034/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjMzNjQwMzQsInMiOjEwODA1MTM3OTQsImMiOjExNjU3NTQ1MjYsInQiOjE2Nzk1MzE1NTl9--9271b4a2e919c7da5e0a076f8ef72b8e8473ea4fda5d2cd4eeb5d2abb948a5ba" data-refresh-url="/_alive" data-session-id="9551f7799e485e0ecd78563128095e12aa9631fb5ffbf4b982148f7a894ca687">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/123364034/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjMzNjQwMzQsInMiOjEwODA1MTM3OTQsImMiOjE0NzE2MTMwNjUsInQiOjE2Nzk1MzE1NzZ9--c6d4ecfa4dd7089ad615821d338ab552ccf850639dbf0c21312cfedfb6511001" data-refresh-url="/_alive" data-session-id="9551f7799e485e0ecd78563128095e12aa9631fb5ffbf4b982148f7a894ca687">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -153,7 +153,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -246,7 +246,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="DXM7178ywmfIw0pi_RYA-dt-CvxtsPDNQqTbqwdVmljpe29-MCNa0nPKxhxs4cZFuKTnvlmRTBliE5gxAt9vRQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="G1yk8KGW3s07Ab9ntxoFLpGp6K2qyZkIIyby2txOMqr_VPBZLodGeIAIMxkm7cOS8nMF757oJdwDkbFA2cTHtw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -445,7 +445,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;MEHDIBELAS&quot;,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="a9d4b645db64842d1551ccdacd1b8479619c3302ab444f3a7c4f6c265bba0193" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;MEHDIBELAS&quot;,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="702b9a6d1f60c861df190bcca670a066dd0a737c76f8e7bded0a5cbb8bd7f254" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -453,7 +453,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/123364034?s=40&amp;v=4" width="20" height="20" alt="@MEHDIBELAS" />
       MEHDIBELAS
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ov3jb7wPg2mOFrxvKOhDOhQgbdMPVDWKfNlyt2LGWK2vym5nf1VcvWAIDEDrED3kvYCKHeYP-UkGh96J55HKpA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KhA-snYHE0tetzxpL9PKqBJGWt0arkvaHLtz7lBp9bq_J7O6tV3Mn7CpjEbsK7R2u-a9E_P1hxlm5d_Q1T5nsw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -488,7 +488,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIzMzY0MDM0IiwidCI6MTY3OTUzMTU1OX0=--5eea6d6d40546dfb74c5411e6dfc56636e430a048025c47a01c5c270e720b1a7" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIzMzY0MDM0IiwidCI6MTY3OTUzMTU3Nn0=--5b1f598c514fb30f239f6481b05c6f41c99ebf0f9a5672a449bf53d3ea59aef2" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -631,7 +631,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIzMzY0MDM0IiwidCI6MTY3OTUzMTU1OX0=--5eea6d6d40546dfb74c5411e6dfc56636e430a048025c47a01c5c270e720b1a7" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIzMzY0MDM0IiwidCI6MTY3OTUzMTU3Nn0=--5b1f598c514fb30f239f6481b05c6f41c99ebf0f9a5672a449bf53d3ea59aef2" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -648,7 +648,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c
+      return-to=/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c
       user-id="123364034"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -805,7 +805,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-9a38091e-79c3-4260-a15b-da4d1c91ca33" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-157af8ff-094d-42b1-bd23-8dfdaed56ff9" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1617,7 +1617,7 @@
           data-action="toggle:notifications-list-subscription-form#detailsToggled"
         >
 
-          <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="0c3a19c974a7205f0d877f4fea8362a3a77a7994322d00417639b77982ec657c" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+          <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="564e98bd2ae8d05a6981cdbceddb575788ce1d9e7337d63db617a7583054b3d9" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
               <span
                 hidden
                 
@@ -1669,7 +1669,7 @@
               </header>
 
               <div class="SelectMenu-list">
-                <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="E7ChJdT-RUEHVx0UfXICB1N8Kz5yEi0IX_-Xzlnu6T-vzgw1tKm3u8adLlDZImFBcIrjqQOKkjJyt5IP72YRAQ" autocomplete="off" />
+                <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EQbNLirIacrbjnhMzUtoh_orMPdYvxqRLX0suLg8WPyteGA-Sp-bMBpESwhpGwvB2d34YCknpasANSl5DrSgwg" autocomplete="off" />
 
                   <input type="hidden" name="repository_id" value="614930674">
 
@@ -1797,7 +1797,7 @@
             hidden
           >
             <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3cSd_5831RMHHu5fGiNv2lw1YRvqTFHnzHIParikCdRhujDv_2An6cbU3Ru-cwycf8OpjJvU7t3hOgqrDizx6g" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LEnHl_b3TyEputCe7JccYm-I7hmOIVR0DoBGi7FuN0yQN2qHlqC92-hw49pIx38kTH4mjv-5604jyENKB-bPcg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="614930674">
 
@@ -1948,11 +1948,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/DemisoDaba/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="8e5d2ff55302c04fb4bf57c010b83acc290f4b6f2a408f677c30671af7fb3ea6" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/DemisoDaba/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="8fb9da36bc7798bc29a21eb8c2a793162a201bc2f317e067c27742a03f16c139" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</a>    <tool-tip id="tooltip-fc2d6596-3f13-4a97-9c27-1b01bd6ffa80" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of DemisoDaba/alx-low_level_programming</tool-tip>
+</a>    <tool-tip id="tooltip-7de24ea9-d53e-40fa-80a4-8fa75b0f9eab" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of DemisoDaba/alx-low_level_programming</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-614930674" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1967,13 +1967,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ddfd14">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-fc2287">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-ddfd14"
+        id="filter-menu-fc2287"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2015,10 +2015,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/DemisoDaba/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xi-zdAm2fugPUhalDhNg14biDJ7ivDtFPxOv-qZtjLKum3MYn8QJY9PMXU8IITSAU7w1mZbLn3Q3MvPGpNRIqw" autocomplete="off" />
-          <input type="hidden" value="VK-a3StxpBQB3y2qWrYNiIncGR2OBvKVaKAKcGGp0gk8G1qxvQPTn91BZkBchFnfXIIgGvpxVqRggVZMYxAWEA" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/DemisoDaba/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DfI6IEYQhBtvjb0w7er_HjZ6O0-fta9AQ2HNDC9qinZlRvpM0GLzkLMT9trr2KtJ4yQCSOvCC3FLQJEwLdNObw" autocomplete="off" />
+          <input type="hidden" value="Oysu9-3RanBO8JGDVULpSXSrMJkGgqeQTeBsb1-ynUFTn-6be6Md-5Ju2mlTcL0eofUJnnL1A6FFwTBTXQtZWA" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="31a0378cc7252567d173fa572dc366fe16971c706c9d1beecc7f1a49d6f2c0e4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="a35592bcd6deb5fafbf34bea6af4ce76f21afb9e88b8494afa01fa82e39dcff6" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2036,13 +2036,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ed47e1">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-860144">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-ed47e1"
+        id="filter-menu-860144"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2063,9 +2063,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/DemisoDaba/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="m_Han3IcCC5IgmxDnWIR1yUpINmjLl4MENFA-ozamQF6U5jNBPuPbl_4H1Z0g9Oicx_6MuNcNlEpJU8Qt8gx9w" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/DemisoDaba/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ewFoZW2q8VCpNqWvs4RlaTc-RftVmX4Ya9M_PfyFMkeaoyo3G012EL5M1rpaZaccYQifEBXrFkVSJzDXx5easQ" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="744c4cfa3b269b3b2caca10a9f48d0de3d9cd8723ec05f7f0299dbc43c5ff1ae" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="f07ce6d33169a558eb50709b209caf0e0fa16bb94d962c47f447bd41c1c1775d" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2083,13 +2083,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-77ec3b">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-54299f">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-77ec3b"
+        id="filter-menu-54299f"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2276,7 +2276,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/DemisoDaba/alx-low_level_programming/blob/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/102-fibonacci.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/DemisoDaba/alx-low_level_programming/blob/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/103-fibonacci.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2284,7 +2284,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="781c0e23b1d98577e0a486b80dabbd3f38fb363f833f7a4f744ce3d33bbc8621">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="d98b7b3e85a6eaba27540f19916303071bb25c9b5cd4162f5f27f9ad9ab11fed">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2365,7 +2365,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/DemisoDaba/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x02-functions_nested_loops/102-fibonacci.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/DemisoDaba/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x02-functions_nested_loops/103-fibonacci.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2407,7 +2407,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/DemisoDaba/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x02-functions_nested_loops/102-fibonacci.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/DemisoDaba/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x02-functions_nested_loops/103-fibonacci.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2468,7 +2468,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/DemisoDaba/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/DemisoDaba/alx-low_level_programming/tree/master/0x02-functions_nested_loops"><span>0x02-functions_nested_loops</span></a></span><span class="separator">/</span><strong class="final-path">102-fibonacci.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/DemisoDaba/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/DemisoDaba/alx-low_level_programming/tree/master/0x02-functions_nested_loops"><span>0x02-functions_nested_loops</span></a></span><span class="separator">/</span><strong class="final-path">103-fibonacci.c</strong>
   </h2>
     <a href="/DemisoDaba/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2479,7 +2479,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="35f184772d6d3592dde14711410fe124f0409f2ca44e00475c48764acd4677d3" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/DemisoDaba/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:614930674,&quot;originating_url&quot;:&quot;https://github.com/DemisoDaba/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c&quot;,&quot;user_id&quot;:123364034}}" data-hydro-click-hmac="1087e051b94d6ed1e8dd0a1135922a7f6c63d6350496b9cd555ca8604bc92ac1" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/DemisoDaba/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2491,13 +2491,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x02-functions_nested_loops/102-fibonacci.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x02-functions_nested_loops/103-fibonacci.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/DemisoDaba/alx-low_level_programming/blob/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/102-fibonacci.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/DemisoDaba/alx-low_level_programming/blob/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/103-fibonacci.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2528,80 +2528,17 @@
     <include-fragment src="/DemisoDaba/alx-low_level_programming/spoofed_commit_check/d223e2e5af4cdedcc776507ee9f71784749d4380" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/DemisoDaba/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/DemisoDaba"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/125874545?s=48&amp;v=4" width="24" height="24" alt="@DemisoDaba" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/DemisoDaba/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/DemisoDaba">DemisoDaba</a>
+  <include-fragment src="/DemisoDaba/alx-low_level_programming/contributors/master/0x02-functions_nested_loops/103-fibonacci.c" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Updated by Demiso" class="Link--secondary" href="/DemisoDaba/alx-low_level_programming/commit/8429cdb525aeecfae17cc3f0b5c2b46561a0681d">Updated by Demiso</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/DemisoDaba/alx-low_level_programming/commit/8429cdb525aeecfae17cc3f0b5c2b46561a0681d/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/DemisoDaba/alx-low_level_programming/commit/8429cdb525aeecfae17cc3f0b5c2b46561a0681d" data-pjax>8429cdb</a>
-            <span itemprop="dateModified"><relative-time datetime="2023-03-21T13:36:22Z" class="no-wrap">Mar 21, 2023</relative-time></span>
-          </span>
-
-          <a data-pjax href="/DemisoDaba/alx-low_level_programming/commits/master/0x02-functions_nested_loops/102-fibonacci.c" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/DemisoDaba/alx-low_level_programming/contributors-list/master/0x02-functions_nested_loops/102-fibonacci.c" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2625,23 +2562,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      32 lines (28 sloc)
+      30 lines (24 sloc)
       <span class="file-info-divider"></span>
-    422 Bytes
+    427 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/DemisoDaba/alx-low_level_programming/raw/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/102-fibonacci.c" href="/DemisoDaba/alx-low_level_programming/raw/master/0x02-functions_nested_loops/102-fibonacci.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/DemisoDaba/alx-low_level_programming/blame/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/102-fibonacci.c" href="/DemisoDaba/alx-low_level_programming/blame/master/0x02-functions_nested_loops/102-fibonacci.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/DemisoDaba/alx-low_level_programming/raw/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/103-fibonacci.c" href="/DemisoDaba/alx-low_level_programming/raw/master/0x02-functions_nested_loops/103-fibonacci.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/DemisoDaba/alx-low_level_programming/blame/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/103-fibonacci.c" href="/DemisoDaba/alx-low_level_programming/blame/master/0x02-functions_nested_loops/103-fibonacci.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/DemisoDaba/alx-low_level_programming/edit/master/0x02-functions_nested_loops/102-fibonacci.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fswCAf_ew0ACHj5k2OCBEZN059V900pod6jXkj6YozyDGeMiEqi5UyhKYLELUAuk6AvNRzdB38eOwJO5R1Y_Qg" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/DemisoDaba/alx-low_level_programming/edit/master/0x02-functions_nested_loops/103-fibonacci.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MM9EsVRPt-jfWlttdkEBKAJiuhYxY1rUPdoD-tUQJzVxICYHpwQLgRXeyYBHTTTutVIPHxdG0uk-4Q0PQcJvNA" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -2651,7 +2588,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/DemisoDaba/alx-low_level_programming/edit/master/0x02-functions_nested_loops/102-fibonacci.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="F5WQta7O_L0ZQKLsD1sYTKkGU_imoCGJrECz7l4wbCHqQHGWQ7iGrjMU_Dnc65L50nl5auwytCZVKPfFJ_7wXw" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/DemisoDaba/alx-low_level_programming/edit/master/0x02-functions_nested_loops/103-fibonacci.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="K6O69JbYzhLerv0F_8gCGyPI1lEfVmViJrqaxtT6PB9qTNhCZZNyexQqb-jOxDfdlPhjWDlz7V8lgZQzQCh0Hg" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2673,7 +2610,7 @@
   </div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/DemisoDaba/alx-low_level_programming/delete/master/0x02-functions_nested_loops/102-fibonacci.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2xkpWWLH7OUBPNyKFE7WvCzKwEmbj6foAYAQuiQhuiRZkuZIYR5RjVVLQOURe9taUG8-G7k9YrVTgiMgF3-v1g" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/DemisoDaba/alx-low_level_programming/delete/master/0x02-functions_nested_loops/103-fibonacci.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AWPpiQ9Sw4sHNw-KQQQWOIN0EtFwXqF1ub8D_6zktsenAkns2uUalgXJMzBSHc5nUg-Z5VcwexivjZcJ--pXCg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2706,27 +2643,27 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/DemisoDaba/alx-low_level_programming/raw/master/0x02-functions_nested_loops/102-fibonacci.c">
+            <a class="dropdown-item" href="/DemisoDaba/alx-low_level_programming/raw/master/0x02-functions_nested_loops/103-fibonacci.c">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/DemisoDaba/alx-low_level_programming/blame/master/0x02-functions_nested_loops/102-fibonacci.c">
+              <a class="dropdown-item" href="/DemisoDaba/alx-low_level_programming/blame/master/0x02-functions_nested_loops/103-fibonacci.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/DemisoDaba/alx-low_level_programming/edit/master/0x02-functions_nested_loops/102-fibonacci.c">Edit file</a>
+                <a class="dropdown-item" href="/DemisoDaba/alx-low_level_programming/edit/master/0x02-functions_nested_loops/103-fibonacci.c">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:614930674,&quot;actor_id&quot;:123364034,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/DemisoDaba/alx-low_level_programming/delete/master/0x02-functions_nested_loops/102-fibonacci.c">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/DemisoDaba/alx-low_level_programming/delete/master/0x02-functions_nested_loops/103-fibonacci.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2762,39 +2699,39 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x02-functions_nested_loops/102-fibonacci.c">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x02-functions_nested_loops/103-fibonacci.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
           <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>main.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * main - Prints first 50 Fibonacci numbers, starting with 1 and 2,</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *        separated by a comma followed by a space.</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * main - Prints the sum of even-valued Fibonacci sequence</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *        terms not exceeding 4000000.</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: Always 0.</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: Always 0.</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
@@ -2806,11 +2743,11 @@
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> i = <span class="pl-c1">0</span>;</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">unsigned</span> <span class="pl-k">long</span> fib1 = <span class="pl-c1">0</span>, fib2 = <span class="pl-c1">1</span>, fibsum;</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">long</span> j = <span class="pl-c1">1</span>, k = <span class="pl-c1">2</span>;</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">float</span> tot_sum;</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
@@ -2819,7 +2756,7 @@
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (i &lt; <span class="pl-c1">50</span>)</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (<span class="pl-c1">1</span>)</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
@@ -2827,73 +2764,67 @@
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (i == <span class="pl-c1">0</span>)</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">		fibsum = fib1 + fib2;</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%ld</span><span class="pl-pds">&quot;</span></span>, j);</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (fibsum &gt; <span class="pl-c1">4000000</span>)</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">else</span> <span class="pl-k">if</span> (i == <span class="pl-c1">1</span>)</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">break</span>;</td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>, <span class="pl-c1">%ld</span><span class="pl-pds">&quot;</span></span>, k);</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">else</span></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> ((fibsum % <span class="pl-c1">2</span>) == <span class="pl-c1">0</span>)</td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">		{</td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">			tot_sum += fibsum;</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">			k += j;</td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">			j = k - j;</td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">		fib1 = fib2;</td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>, <span class="pl-c1">%ld</span><span class="pl-pds">&quot;</span></span>, k);</td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">		fib2 = fibsum;</td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">		}</td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">	}</td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%.0f</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>, tot_sum);</td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">		++i;</td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">
 </td>
         </tr>
         <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (<span class="pl-c1">0</span>);</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (<span class="pl-c1">0</span>);</td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
   </table>
 </div>
@@ -2919,7 +2850,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/DemisoDaba/alx-low_level_programming/blame/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/102-fibonacci.c">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/DemisoDaba/alx-low_level_programming/blame/d223e2e5af4cdedcc776507ee9f71784749d4380/0x02-functions_nested_loops/103-fibonacci.c">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/DemisoDaba/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
