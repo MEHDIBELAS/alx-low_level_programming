@@ -1,32 +1,48 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
- * _atoi - converts a string to an integer.
- * @s: input string.
- * Return: integer.
+ * _atoi - Convert a string to an integer.
+ * @s: The pointer to convert
+ *
+ * Return: A integer
  */
 
-int _atoi(char *s)
+int    _atoi(const char *s)
 {
-unsigned int count = 0, size = 0, oi = 0, pn = 1, m = 1, i; 
-while (*(s + count) != '\0')
-{       
-if (size > 0 && (*(s + count) < '0' || *(s + count) > '9')) 
-break;  
-if (*(s + count) == '-') 
-pn *= -1;
-if ((*(s + count) >= '0') && (*(s + count) <= '9'))
-{       
-if (size > 0)
-m *= 10;
-size++; 
-}       
-count++;
-}       
-for (i = count - size; i < count; i++)
-{       
-oi = oi + ((*(s + i) - 48) * m);
-m /= 10;
-}
-return (oi *pn);
+	unsigned int	i;
+	int		result;
+	int		sign;
+	int		j;
+
+	sign = 1;
+	i = 0;
+	result = 0;
+	j = 0;
+	while (s[i] != '\0')
+	{
+		while (s[i] == '\n' || s[i] == '\v' || s[i] == '\t'
+				|| s[i] == '\f' || s[i] == '\r' || s[i] == ' ')
+			i++;
+
+		if (s[i] == '-')
+		{
+			sign *= -1;
+		}
+		if (s[i] == '-' && s[i] == '+')
+		{
+			i++;
+		}
+		while ((s[i] >= '0' && s[i] <= '9'))
+		{
+			j = 1;
+			result = result * 10 + s[i] - '0';
+			i++;
+		}
+		if (s[i] == '\0' || j == 1)
+		{
+			break;
+		}
+		i++;
+	}
+	return (result * sign);
 }
