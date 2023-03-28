@@ -1,48 +1,45 @@
-#include <stdio.h>
-
+#include "main.h"
 /**
- * _atoi - Convert a string to an integer.
- * @s: The pointer to convert
- *
- * Return: A integer
- */
-
-int    _atoi(const char *s)
+* _atoi - changes ascii to int
+* @s: the string to be changed
+*
+* Return: the converted int
+*/
+int _atoi(char *s)
 {
-	unsigned int	i;
-	int		result;
-	int		sign;
-	int		j;
+	int i, d, n, len, f, digit;
 
-	sign = 1;
 	i = 0;
-	result = 0;
-	j = 0;
-	while (s[i] != '\0')
-	{
-		while (s[i] == '\n' || s[i] == '\v' || s[i] == '\t'
-				|| s[i] == '\f' || s[i] == '\r' || s[i] == ' ')
-			i++;
+	d = 0;
+	n = 0;
+	len = 0;
+	f = 0;
+	digit = 0;
 
+	while (s[len] != '\0')
+		len++;
+
+	while (i < len && f == 0)
+	{
 		if (s[i] == '-')
+			++d;
+
+		if (s[i] >= '0' && s[i] <= '9')
 		{
-			sign *= -1;
-		}
-		if (s[i] == '-' && s[i] == '+')
-		{
-			i++;
-		}
-		while ((s[i] >= '0' && s[i] <= '9'))
-		{
-			j = 1;
-			result = result * 10 + s[i] - '0';
-			i++;
-		}
-		if (s[i] == '\0' || j == 1)
-		{
-			break;
+			digit = s[i] - '0';
+			if (d % 2)
+				digit = -digit;
+			n = n * 10 + digit;
+			f = 1;
+			if (s[i + 1] < '0' || s[i + 1] > '9')
+				break;
+			f = 0;
 		}
 		i++;
 	}
-	return (result * sign);
+
+	if (f == 0)
+		return (0);
+
+	return (n);
 }
